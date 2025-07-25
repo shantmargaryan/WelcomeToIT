@@ -1,0 +1,416 @@
+{
+  "NavLinks": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "features": "Features",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "HomeHero": {
+    "title": "We create great websites for everyone",
+    "description": "Our team specializes in creating modern, fast, and optimized websites. We help businesses grow their online presence with cutting-edge web solutions.",
+    "link": "About Us"
+  },
+  "HomeWork": {
+    "title": "How we work",
+    "description": "Our work process combines strategic planning, creative design, and high-quality development to meet your business needs.",
+    "link": "Get in touch with us",
+    "Items": {
+      "Strategy": "Discussion",
+      "StrategyDescription": "We carefully listen to your needs and develop a personalized strategy for your project.",
+      "Teaching": "Teaching",
+      "TeachingDescription": "We provide training and support to help you understand the web development process.",
+      "Design": "Design",
+      "DesignDescription": "We develop modern and engaging designs that reflect your brand identity.",
+      "Development": "Development",
+      "DevelopmentDescription": "We use the latest technologies to create fast and secure websites."
+    }
+  },
+  "HomeProjects": {
+    "title": "View our projects",
+    "link": "View More",
+    "Items": {
+      "title": "Best Welcome To IT websites",
+      "secoundTitle": "Our best works",
+      "description": "We present our work to the client։",
+      "link": "View projects"
+    }
+  },
+  "HomeCourses": {
+    "title": "Courses",
+    "description": "We offer a variety of courses to help you learn web development and design.",
+    "Items": {
+      "title": "Frontend Development",
+      "description": "Learn the fundamentals of HTML, CSS, and JavaScript to build modern websites.",
+      "link": "Learn more",
+      "secoundTitle": "Backend Development",
+      "secoundDescription": "Explore server-side programming with Node.js and databases to create dynamic web applications.",
+      "secoundLink": "Learn more",
+      "thirdTitle": "Full-Stack Development",
+      "thirdDescription": "Master both frontend and backend development to create full-stack web applications.",
+      "thirdLink": "Learn more",
+      "fourthTitle": "SMM",
+      "fourthDescription": "Learn how to promote your website through social media platforms.",
+      "fourthLink": "Learn more",
+      "fifthTitle": "English Language",
+      "fifthDescription": "Learn English language from the basics to the advanced level.",
+      "fifthLink": "Learn more",
+      "sixthTitle": "UI/UX Design",
+      "sixthDescription": "Learn how to design user-friendly and visually appealing websites.",
+      "sixthLink": "Learn more"
+    }
+  },
+  "coursesHero": {
+    "title": "Advance your skills with our courses",
+    "description": "Join our expert-led courses to master web development, design, and digital marketing. Whether you're a beginner or looking to upskill, we have the right course for you.",
+    "link": "Register"
+  },
+  "CoursesItems": {
+    "currentTitle": "Courses",
+    "currentDescription": "We offer a wide range of courses designed to help you master web development and design from scratch to completion",
+    "teacherName": "Shant Margaryan",
+    "teacherPosition": "Instructor & Frontend Developer",
+    "befourTitle": "Web Design",
+    "title": "Explore Our Course for Web Design",
+    "description": "Our web design course covers the latest trends and techniques in creating visually appealing and user-friendly websites.",
+    "largeDescription": "Our courses are designed to provide you with the knowledge and skills you need to succeed in the ever-changing landscape of web development, design, and digital marketing. With a focus on practical, hands-on learning, our courses cover topics such as web development frameworks, design principles, and digital marketing strategies. Whether you're looking to upskill or reskill, our courses are the perfect way to take your career to the next level.",
+    "link": "Learn more",
+    "secoundTeacherName": "Vahan Hovhannisian",
+    "secoundTeacherPosition": "Instructor & Frontend Developer",
+    "secoundBefourTitle": "Frontend Development",
+    "secoundTitle": "Explore Our Course for Web Development",
+    "secoundDescription": "Our web development course covers the latest technologies and best practices for building dynamic and responsive websites.",
+    "secoundLargeDescription": "Our courses are taught by industry experts with years of experience in their fields. They'll share their knowledge and insights with you, providing you with a comprehensive understanding of the latest trends and technologies. With our courses, you'll gain the skills and confidence you need to succeed in your career, whether you're just starting out or looking to take your skills to the next level. Plus, with our flexible online learning platform, you can learn at your own pace and on your own schedule.",
+    "thirdTeacherName": "Karen Harutyunyan",
+    "thirdTeacherPosition": "Instructor & Backend Developer",
+    "thirdBefourTitle": "Backend Development",
+    "thirdTitle": "Explore Our Course for Backend Development",
+    "thirdDescription": "Our backend development course covers the server-side programming and databases required for building robust and scalable web applications.",
+    "thirdLargeDescription": "By taking our courses, you'll not only gain new skills and knowledge, but also become part of a community of like-minded professionals who are passionate about web development, design, and digital marketing. Our courses include interactive discussions, peer feedback, and support from our instructors, so you can connect with others who share your interests and goals. Plus, with our certificate of completion, you'll have a tangible way to showcase your skills to employers and clients.",
+    "fourthTeacherName": "Marine Torosyan",
+    "fourthTeacherPosition": "Instructor & SMM Specialist",
+    "fourthBefourTitle": "SMM",
+    "fourthTitle": "Explore Our Course for SMM",
+    "fourthDescription": "Our SMM course covers the latest techniques and tools for promoting your website on social media platforms.",
+    "fourthLargeDescription": "We're committed to helping you achieve your career goals, and we're confident that our courses will provide you with the skills and knowledge you need to succeed. That's why we offer a 30-day money-back guarantee. If you're not satisfied with the course, we'll refund your tuition in full. Plus, with our lifetime access to course materials, you can review and refresh your skills at any time. Invest in your future with our courses, and start building the career you deserve.",
+    "fifthTeacherName": "Vahan Hovhannisian",
+    "fifthTeacherPosition": "Instructor & Full-Stack Developer",
+    "fifthBefourTitle": "Full-Stack Development",
+    "fifthTitle": "Explore Our Course for Full-Stack Development",
+    "fifthDescription": "Our full-stack development course covers the end-to-end development process, including both frontend and backend development.",
+    "fifthLargeDescription": "Don't just take our word for it - our courses have helped thousands of students achieve their career goals and improve their skills. Here's what some of our students have to say: 'I was able to land my dream job after taking this course!' 'The instructor was knowledgeable and provided great feedback.' 'I loved the interactive discussions and peer feedback.' Read more testimonials from our satisfied students and see how our courses can help you achieve your goals.",
+    "sixthTeacherName": "Hasmik Arshakyan",
+    "sixthTeacherPosition": "Instructor & English Teacher",
+    "sixthBefourTitle": "English Language",
+    "sixthTitle": "Explore Our Course for English Language",
+    "sixthDescription": "Our English language course covers the fundamentals of language learning and communication.",
+    "sixthLargDescription": "Take your English skills to the next level with our comprehensive course. Covering topics from beginner to advanced, our lessons include interactive exercises,our course is designed to help you achieve your goals.",
+    "seventhTeacherName": "Syuzi Sargsyan",
+    "seventhTeacherPosition": "Instructor & Graphic Designer",
+    "seventhBefourTitle": "UI UX Design",
+    "seventhTitle": "Explore Our Course for Graphic Design",
+    "seventhDescription": "Our graphic design course covers the latest trends and techniques for creating visually appealing and user-friendly websites.",
+    "seventhLargDescription": "Unlock your creativity and master the art of visual communication with our comprehensive graphic design course. Learn essential design principles, industry-standard tools, and practical techniques to create stunning graphics for web and print. Through hands-on projects, expert feedback, and a supportive learning community, you'll build a professional portfolio and gain the confidence to pursue a successful career in graphic design.",
+    "Items": {
+      "1": {
+        "itemOne": "Learn the fundamentals of color theory, typography, and layout.",
+        "itemTwo": "Work on real-world projects to build your portfolio.",
+        "itemThree": "Get feedback from experienced designers and instructors."
+      },
+      "2": {
+        "itemOne": "Master HTML, CSS, and JavaScript from the ground up.",
+        "itemTwo": "Build interactive and responsive web pages.",
+        "itemThree": "Understand version control and modern development workflows."
+      },
+      "3": {
+        "itemOne": "Learn the basics of React and state management.",
+        "itemTwo": "Create dynamic and reusable components.",
+        "itemThree": "Optimize performance and accessibility."
+      },
+      "4": {
+        "itemOne": "Understand the fundamentals of social media marketing and its role in growing a business.",
+        "itemTwo": "Develop strategies for creating engaging content and building an online community.",
+        "itemThree": "Analyze social media metrics to optimize campaigns and measure success."
+      },
+      "5": {
+        "itemOne": "Combine frontend and backend skills to build complete web applications.",
+        "itemTwo": "Deploy and maintain your projects using modern tools.",
+        "itemThree": "Collaborate on group projects and build a professional portfolio."
+      },
+      "6": {
+        "itemOne": "Learn the fundamentals of English grammar, vocabulary, and communication skills.",
+        "itemTwo": "learn English language from the basics to the advanced level.",
+        "itemThree": "turn around your speaking and writing skills."
+      },
+      "7": {
+        "itemOne": "Learn the fundamentals of graphic design and its applications.",
+        "itemTwo": "Work on real-world projects to build your portfolio.",
+        "itemThree": "Get feedback from experienced designers and instructors."
+      }
+    }
+  },
+  "CoursesForm": {
+    "title": "Join our courses",
+    "description": "Fill in your details, and we'll get back to you with all the necessary information.",
+    "button": "Send",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone number",
+    "messagePlaceholder": "Message",
+    "selectDeveloper": "Select course"
+  },
+  "CoursesSingleHero": {
+    "beforeTitle": "Course Details",
+    "title": "Master Web Development Skills",
+    "description": "Dive deep into comprehensive course content designed to transform you into a proficient web developer. Learn from industry experts and gain practical experience through hands-on projects."
+  },
+  "HomeFeatures": {
+    "beforeTitle": "Features",
+    "title": "Design that solves problems",
+    "Items": {
+      "UsesClientFirst": "Uses Client First",
+      "UsesClientFirstDescription": "We always prioritize client needs and focus on their business objectives.",
+      "TwoFreeRevisionRound": "Free Hosting and Domain",
+      "TwoFreeRevisionRoundDescription": "We provide free hosting and domain name to get your website up and running quickly.",
+      "TemplateCustomization": "Template Customization",
+      "TemplateCustomizationDescription": "We customize the website to your business needs, ensuring uniqueness and brand recognition.",
+      "Support": "Support",
+      "SupportDescription": "We provide 24/7 technical support to ensure your website runs smoothly.",
+      "QuickDelivery": "OnTime Delivery",
+      "QuickDeliveryDescription": "We maintain strict timelines and ensure timely project completion.",
+      "FreeRevisions": "Free Revisions",
+      "FreeRevisionsDescription": "We offer free revisions to perfect your website."
+    }
+  },
+  "HomeClients": {
+    "title": "What our clients say about us",
+    "description": "Our clients' satisfaction is the key to our success.",
+    "Items": {
+      "title": "The best agency we've worked with so far. They understand our product and are able to add new features with a great focus.",
+      "name": "Jenny Wilson",
+      "position": "Vice President"
+    }
+  },
+  "HomeSendInquery": {
+    "title": "We create great websites for all businesses",
+    "description": "Contact us for a free consultation about your project.",
+    "secoundTitle": "Send inquiry",
+    "secoundDescription": "Fill in your details, and we'll get back to you with all the necessary information.",
+    "button": "Send",
+    "link": "Get in touch with us",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone number",
+    "messagePlaceholder": "Message"
+  },
+  "HomeBlogItems": {
+    "currentTitle": "Our blog",
+    "title": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+    "secoundTitle": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+    "thirdTitle": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+    "description": "Discover the strategies and tools that helped transform a one-person operation into a thriving business.",
+    "secoundDescription": "Learn how innovative web solutions can accelerate your business growth.",
+    "thirdDescription": "Explore the journey of building a successful online presence from scratch.",
+    "link": "Read more"
+  },
+  "AboutHero": {
+    "title": "Welcome to IT ",
+    "description": ". Founded in 2019, our company has been serving the Armenian market by providing a range of services and educating hundreds of young people. Over the years, our team has developed websites, delivered marketing services, and organized courses in web programming, SMM, graphic design, robotics, and more.Our mission is to combine technology and education to equip the new generation with practical skills and opportunities to be competitive both in the Armenian and international markets.At Welcome to IT, we believe that everyone can build their future in the right educational environment with the support of experienced professionals."
+  },
+  "AboutWhoWeAre": {
+    "beforeTitle": "Who we are",
+    "title": "Our goal is focused",
+    "secoundTitle": "Continuous improvement",
+    "description": "We are dedicated to delivering exceptional web solutions that help businesses succeed online.",
+    "secoundDescription": "We constantly evolve our processes and technologies to stay ahead in the digital landscape."
+  },
+  "AboutFollow": {
+    "title": "The process we follow",
+    "Items": {
+      "planning": "Planning",
+      "planningDescription": "We start with a detailed analysis of your requirements and create a comprehensive project plan.",
+      "conception": "Conception",
+      "conceptionDescription": "We develop innovative concepts that align with your brand and business objectives.",
+      "design": "Design",
+      "designDescription": "We create visually appealing and user-friendly designs that enhance your brand identity.",
+      "development": "Development",
+      "developmentDescription": "We build robust and scalable websites using the latest technologies and best practices.",
+      "Teaching": "Teaching",
+      "TeachingDescription": "We provide training and support to help you understand the web development process."
+    }
+  },
+  "AboutMission": {
+    "beforeTitle": "Our mission",
+    "title": "Innovate, Share",
+    "description": "We strive to innovate in web development while sharing our knowledge and expertise with our clients.",
+    "secoundBeforeTitle": "Our vision",
+    "secoundTitle": "We do everything for our customers",
+    "secoundDescription": "Our vision is to be the leading web development partner that businesses trust for their digital success."
+  },
+  "AboutBenefits": {
+    "title": "The benefits of working with us",
+    "Items": {
+      "firstSmallText": {
+        "title": "Easy work",
+        "description": "We make the web development process smooth and hassle-free for our clients."
+      },
+      "secondSmallText": {
+        "title": "Perfectly Responsive",
+        "description": "We ensure your website looks and works perfectly across all devices and platforms."
+      },
+      "thirdSmallText": {
+        "title": "Friendly Support",
+        "description": "Our team provides friendly and professional support throughout your project journey."
+      }
+    }
+  },
+  "AboutTeam": {
+    "title": "Meet our team",
+    "Items": {
+      "name": "Karen Hovhannisyan",
+      "position": "Backend Developer",
+      "secoundname": "Marine Torosyan",
+      "secoundposition": "SMM Specialist",
+      "thirdname": "Shant Margaryan",
+      "thirdposition": "Frontend Developer",
+      "fourthname": "Hasmik Arshakyan",
+      "fourthposition": "English Teacher",
+      "fifthname": "Karen Nersisyan",
+      "fifthposition": "Backend Developer & SEO",
+      "sixthname": "Syuzi Sargsyan",
+      "sixthposition": "Graphic Designer",
+      "seventhname": "Vahan Hovhannisian",
+      "seventhposition": "Frontend Developer"
+    }
+  },
+  "FeaturesHero": {
+    "title": "All the features you need",
+    "description": "We provide comprehensive web development solutions with all the essential features for your business success.",
+    "link": "View our works"
+  },
+  "FeaturesItems": {
+    "beforeTitle": "Customer review",
+    "title": "Customer review is very important for us",
+    "description": "We value our clients' feedback and use it to continuously improve our services and deliver better results.",
+    "secoundBeforeTitle": "review stages",
+    "secoundTitle": "We create the best work for our clients",
+    "secoundDescription": "Our review process ensures that every project meets the highest standards of quality and client satisfaction.",
+    "thirdBeforeTitle": "Support",
+    "thirdTitle": "By working with us, you will receive the best service.",
+    "thirdDescription": "Our dedicated support team is always ready to help you with any questions or concerns.",
+    "fourthBeforeTitle": "OnTime delivery",
+    "fourthTitle": "Guaranteed high quality work",
+    "fourthDescription": "We deliver projects on time without compromising on quality, ensuring your business goals are met."
+  },
+  "ProjectsHero": {
+    "beforeTitle": "What we created",
+    "title": "Our works",
+    "description": "We help teams create great digital products by providing them with tools and technology to make the design-to-code process universally accessible."
+  },
+  "ProjectsItems": {
+    "currentTitle": "Projects",
+    "viewMore": "View Project",
+    "loadMore": "Load More",
+    "title": "E-commerce",
+    "page": "Multipage",
+    "language": "HTML, CSS, JS",
+    "development": "Frontend",
+    "price": "100000 AMD",
+    "secoundTitle": "barber shop",
+    "secoundPage": "Multipage",
+    "secoundLanguage": "React, Styled Components",
+    "secoundDevelopment": "Frontend & Backend",
+    "secoundPrice": "100000 AMD",
+    "thirdTitle": "Furniture Store",
+    "thirdPage": "Multipage",
+    "thirdLanguage": "React, Styled Components",
+    "thirdDevelopment": "Frontend & Backend",
+    "thirdPrice": "100000 AMD",
+    "fourthTitle": "Games",
+    "fourthPage": "Landing page",
+    "fourthLanguage": "HTML, CSS, JS",
+    "fourthDevelopment": "Frontend",
+    "fourthPrice": "50000 AMD",
+    "fifthTitle": "photo studio",
+    "fifthPage": "Multipage",
+    "fifthLanguage": "HTML, CSS, JS",
+    "fifthDevelopment": "Frontend",
+    "fifthPrice": "50000 AMD",
+    "sixthTitle": "Plaster",
+    "sixthPage": "Multipage",
+    "sixthLanguage": "HTML, CSS, JS",
+    "sixthDevelopment": "Frontend",
+    "sixthPrice": "50000 AMD",
+    "seventhTitle": "Construction",
+    "seventhPage": "Multipage",
+    "seventhLanguage": "HTML, CSS, JS",
+    "seventhDevelopment": "Frontend",
+    "seventhPrice": "50000 AMD",
+    "searchPlaceholder": "Search projects...",
+    "ProjectAboutInfo": {
+      "language": "Language",
+      "development": "Development",
+      "price": "Price"
+    }
+  },
+  "SingleProjectHero": {
+    "beforeTitle": "Web design and development",
+    "title": "About the project to study",
+    "description": "Explore our detailed case studies to understand how we transform business requirements into successful digital solutions."
+  },
+  "ProjectAbout": {
+    "title": "About the project",
+    "items": {
+      "1": {
+        "description": "Our e-commerce solution provides a seamless shopping experience with advanced features for product management, secure payments, and customer engagement.",
+        "firstSmallText": "Modern and responsive design",
+        "secondSmallText": "Secure payment integration",
+        "thirdSmallText": "Advanced product management"
+      },
+      "2": {
+        "description": "The barber shop website combines elegant design with practical booking functionality to enhance customer experience.",
+        "firstSmallText": "Online booking system",
+        "secondSmallText": "Service showcase",
+        "thirdSmallText": "Customer reviews"
+      },
+      "3": {
+        "description": "Our furniture store platform offers an immersive shopping experience with 3D product visualization and easy navigation.",
+        "firstSmallText": "3D product showcase",
+        "secondSmallText": "Advanced filtering",
+        "thirdSmallText": "Secure checkout"
+      },
+      "4": {
+        "description": "The gaming website features an engaging interface with interactive elements and smooth performance.",
+        "firstSmallText": "Interactive design",
+        "secondSmallText": "High performance",
+        "thirdSmallText": "User engagement"
+      },
+      "5": {
+        "description": "The photo studio website showcases professional work with a clean, elegant design and easy portfolio navigation.",
+        "firstSmallText": "Portfolio showcase",
+        "secondSmallText": "Booking system",
+        "thirdSmallText": "Client gallery"
+      },
+      "6": {
+        "description": "The plastering website contains a professional showcase of services, easy navigation and contact options.",
+        "firstSmallText": "Services showcase",
+        "secondSmallText": "Contact integration",
+        "thirdSmallText": "Portfolio display"
+      },
+      "7": {
+        "description": "The construction website presents professional services, project gallery and easy contact options.",
+        "firstSmallText": "Services display",
+        "secondSmallText": "Projects gallery",
+        "thirdSmallText": "Free consultation"
+      }
+    }
+  },
+  "Footer": {
+    "smallDescription": "We are always open to discuss your project and improve your online presence.",
+    "largeDescription": "We are always open to discuss your project, improve your online presence and help with your UX/UI design challenges.",
+    "title": "Lets Talk!",
+    "emailTitle": "Email me at",
+    "callTitle": "Call us"
+  }
+}
