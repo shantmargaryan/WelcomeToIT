@@ -1,22 +1,22 @@
 export const images = [
   {
     id: 1,
-    src: "/imgs/KarenHarutyunyan.jpg",
+    src: "/imgs/KarenHarutyunyan.JPG",
     alt: "team",
   },
   {
     id: 2,
-    src: "/imgs/MarineTorosyan.jpg",
+    src: "/imgs/MarineTorosyan.JPG",
     alt: "team",
   },
   {
     id: 3,
-    src: "/imgs/ShantMargaryan.jpg",
+    src: "/imgs/ShantMargaryan.JPG",
     alt: "team",
   },
   {
     id: 4,
-    src: "/imgs/HasmikArshakyan.jpg",
+    src: "/imgs/HasmikArshakyan.JPG",
     alt: "team",
   },
   {
@@ -26,12 +26,12 @@ export const images = [
   },
   {
     id: 6,
-    src: "/imgs/SyuziSargsyan.jpg",
+    src: "/imgs/SyuziSargsyan.JPG",
     alt: "team",
   },
   {
     id: 7,
-    src: "/imgs/VahanHovhannisian.png",
+    src: "/imgs/VahanHovhannisian.JPG",
     alt: "team",
   },
 ]
