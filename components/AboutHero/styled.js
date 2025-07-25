@@ -44,8 +44,6 @@ export const AboutParagraph = styled.p`
 export const AboutVideo = styled.video`
   width: 100%;
   height: 400px;
-  transform: scale(${({ isvisible }) => isvisible ? '1' : '0'});
-  opacity: ${({ isvisible }) => isvisible ? '1' : '0'};
   transition: transform 0.5s ease 0s, opacity 0.5s ease 0s;
   object-fit: cover;
   `
