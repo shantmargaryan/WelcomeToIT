@@ -32,7 +32,7 @@ export default function AboutHero() {
           </AboutParagraph>
         </Content>
         <AboutVideo
-          isvisible={isvisible ? "true" : undefined}
+          // isvisible={isvisible ? "true" : undefined}
           src="/videos/video.mp4"
           autoPlay
           muted
