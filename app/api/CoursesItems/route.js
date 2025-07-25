@@ -25,7 +25,7 @@ export async function GET() {
       description: "secoundDescription",
       largeDescription: "secoundLargeDescription",
       img: "/imgs/courseImg4.jpg",
-      teacherImg: "/imgs/VahanHovhannisian.png",
+      teacherImg: "/imgs/VahanHovhannisian.JPG",
       link: "link",
     },
     {
@@ -37,7 +37,7 @@ export async function GET() {
       description: "thirdDescription",
       largeDescription: "thirdLargeDescription",
       img: "/imgs/courseImg2.jpg",
-      teacherImg: "/imgs/KarenHarutyunyan.png",
+      teacherImg: "/imgs/KarenHarutyunyan.JPG",
       link: "link",
     },
     {
@@ -49,7 +49,7 @@ export async function GET() {
       description: "fourthDescription",
       largeDescription: "fourthLargeDescription",
       img: "/imgs/courseImg3.jpg",
-      teacherImg: "/imgs/MarineTorosyan.png",
+      teacherImg: "/imgs/MarineTorosyan.JPG",
       link: "link",
     },
     {
@@ -61,7 +61,7 @@ export async function GET() {
       description: "fifthDescription",
       largeDescription: "fifthLargeDescription",
       img: "/imgs/courseImg1.jpg",
-      teacherImg: "/imgs/VahanHovhannisian.png",
+      teacherImg: "/imgs/VahanHovhannisian.JPG",
       link: "link",
     },
     {
@@ -73,7 +73,7 @@ export async function GET() {
       description: "sixthDescription",
       largeDescription: "sixthLargeDescription",
       img: "/imgs/courseImg6.jpg",
-      teacherImg: "/imgs/HasmikArshakyan.png",
+      teacherImg: "/imgs/HasmikArshakyan.JPG",
       link: "link",
     },
     {
@@ -85,7 +85,7 @@ export async function GET() {
       description: "seventhDescription",
       largeDescription: "seventhLargeDescription",
       img: "/imgs/courseImg7.webp",
-      teacherImg: "/imgs/SyuziSargsyan.png",
+      teacherImg: "/imgs/SyuziSargsyan.JPG",
       link: "link",
     },
   ];
