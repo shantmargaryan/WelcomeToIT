@@ -6,7 +6,7 @@ export const svgs = [
         icon: "/svg/Css.svg"
     },
     {
-        icon: "/svg/Js.svg"
+        icon: "/svg/JS.svg"
     },
     {
         icon: "/svg/React.svg"
