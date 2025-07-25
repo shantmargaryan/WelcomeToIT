@@ -6,12 +6,12 @@ export const images = [
   },
   {
     id: 2,
-    src: "/imgs/MarineTorosyan.JPG",
+    src: "/imgs/MarineTorosyan.png",
     alt: "team",
   },
   {
     id: 3,
-    src: "/imgs/ShantMargaryan.JPG",
+    src: "/imgs/ShantMargaryan.png",
     alt: "team",
   },
   {
