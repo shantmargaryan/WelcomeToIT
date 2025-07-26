@@ -32,13 +32,13 @@ export default function AboutHero() {
           </AboutParagraph>
         </Content>
         <AboutVideo
-          src="/videos/video.mp4"
           autoPlay
           muted
           loop
           playsInline
-          preload="auto"
-        />
+          preload="auto">
+          <source src="/videos/video.mp4" type="video/mp4" />
+        </AboutVideo>
       </AboutContainer>
     </AboutSection>
   );
